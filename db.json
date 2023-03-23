@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "username": "rahul123",
+      "title": "Be Present",
+      "date": "2017-06-01"
+    },
+    {
+      "id": 2,
+      "username": "mohit123",
+      "title": "Be Present",
+      "date": "2017-06-01"
+    },
+    {
+      "id": 3,
+      "username": "ankit123",
+      "title": "Be Present",
+      "date": "2017-06-01"
+    },
+    {
+      "id": 4,
+      "username": "shiv123",
+      "title": "Be Present",
+      "date": "2017-06-01"
+    },
+    {
+      "id": 5,
+      "username": "sahil123",
+      "title": "Be Present",
+      "date": "2017-06-01"
+    },
+    {
+      "id": 6,
+      "username": "rohan123",
+      "title": "Be Present",
+      "date": "2017-06-01"
+    }
+  ]
+}
